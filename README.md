@@ -26,11 +26,11 @@ The side panel allows quick access to various task categories:
 
 
 ## Personal Notes
-Project Start: 9/10/2020
+Project Start: 1/18/2021
 For this project, I'm trying a new strategy of taken time to plan things out before coding. Hopefully I can integrate modular patterns, modules, and SOLID principles. 
 
-Project end: 9/13/2020
+Project end: 1/20/2021
 The project helped reinforce several JS topics: modular patterns, factory functions, IIFEs, single responsibility principle. 
 
-Project update: 9/20/2020
+Project update: 1/20/2021
 Updated project to incorporate Firebase user authentication and Firestore database. Created a sign-in module that I would also be able to re-use for future projects. Using Firebase/Firestore was an interesting change from the normal HTML/CSS/JS projects. 
